@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/css/main.da11c8bf.css",
-    "main.js": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/js/main.ada5f9c9.js",
-    "static/js/787.749b4a44.chunk.js": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/js/787.749b4a44.chunk.js",
-    "index.html": "/BikashSingh-GitHub/Portfolio-Bikash.git/index.html",
-    "main.da11c8bf.css.map": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/css/main.da11c8bf.css.map",
-    "main.ada5f9c9.js.map": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/js/main.ada5f9c9.js.map",
-    "787.749b4a44.chunk.js.map": "/BikashSingh-GitHub/Portfolio-Bikash.git/static/js/787.749b4a44.chunk.js.map"
+    "main.css": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/css/main.da11c8bf.css",
+    "main.js": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/js/main.624f4749.js",
+    "static/js/787.749b4a44.chunk.js": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/js/787.749b4a44.chunk.js",
+    "index.html": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/index.html",
+    "main.da11c8bf.css.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/css/main.da11c8bf.css.map",
+    "main.624f4749.js.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/js/main.624f4749.js.map",
+    "787.749b4a44.chunk.js.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da11c8bf.css",
-    "static/js/main.ada5f9c9.js"
+    "static/js/main.624f4749.js"
   ]
 }
