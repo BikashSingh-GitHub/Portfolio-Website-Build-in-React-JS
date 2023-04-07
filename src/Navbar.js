@@ -3,6 +3,7 @@ import { FaLinkedin, FaGithub, FaEnvelope,FaTwitter } from "react-icons/fa";
 import "./Homepage.css"
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
+import { Link } from 'react-router-dom';
 
 
 function HomePage() {
@@ -10,18 +11,18 @@ function HomePage() {
 
   return (
 
-<div class="bg-gradient-to-r from-green-900 via-green-600 to-green-400 h-screen">   
+<div class="bg-gradient-to-r from-green-900 via-green-600 to-green-400 h-screen ">
 
 <header className="bg-gradient-to-l from-green-400 via-green-300 to-green-300">
   <nav className="container mx-auto px-3 py-3 flex flex-wrap justify-between items-center">
     <div className="flex items-center">
       <a className="text-gray-1000 text-4xl font-bold hover:text-orange-500 mr-4" href="#">Portfolio</a>
     </div>
-    <div className="flex mt-4 md:mt-0">
+    <div className="flex mt-2 md:mt-0">
       <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">Home</a>
-      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">About</a>
       <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">Projects</a>
-      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</a>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-4" href="#">About</a>
+      <Link to ="/ContactUs" className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</Link>
       <div className="flex items-center">
         <div className="ml-1">
           <a className=" hover:text-blue-100" href="https://www.linkedin.com/in/bikash-singh-410204aa/">
@@ -52,7 +53,7 @@ function HomePage() {
       <main className="container mx-auto mt-10 px-6">
   <div className="flex flex-col md:flex-row">
     <div className="md:w-1/2">
-   
+   <br></br><br></br>
       <motion.h1
         ref={ref}
         initial={{ opacity: 0, y: 20 }}
@@ -69,7 +70,7 @@ function HomePage() {
         transition={{ duration: 0.6, delay: 0.2 }}
         className="mt-4 text lg sm:text-justify font-mono font-bold md:text-justify font-mono font-bold lg:text-2xl font-mono font-bold"
       >
-     As a Frontend Developer, I have a strong skill set in building React-based applications and hold both Bachelor's and Master's degrees in Computer Application Development. I have 2 years of working experience in React and am currently seeking job opportunities in the software industry.
+     As a Frontend Developer, I have two years of working experience in React and am currently seeking job opportunities in the software industry.
    
       </motion.p>
       <motion.div

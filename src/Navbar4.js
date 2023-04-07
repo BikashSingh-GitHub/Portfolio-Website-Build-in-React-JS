@@ -34,19 +34,17 @@ const Navbar4 = () => {
         <li>Developed the "Tokn Music" Minimum Viable Product (MVP) using React.js.</li>
         <li>Serviced the integration between the backend and frontend of the web application.</li>
         <li>Worked to develop and integrate blockchain technology into the platform.</li>
-        <li>Collaborated with team members to solve complex problems.</li>
         <li>Documented UI components and design patterns for future use.</li>
-        <li>Strong technical skills and attention to detail.</li>
-        <li>Valuable asset to any web development team.</li>
+        <li>Strong technical skills and attention to details.</li>
         </ul>
       </div>
       <div className="flex items-center flex-shrink-0">
-        <img
+      <a href ="https://www.linkedin.com/company/tokn-music/"> <img
           className="rounded-full ml-4 md:ml-0"
           src="https://media.licdn.com/dms/image/C560BAQFYiFx0xUCKmA/company-logo_200_200/0/1650929235489?e=1687996800&v=beta&t=Vt12HiGnY3HH3KIjnpc7K0xbuV1iy5fQZED-CDllW4U"
-          alt="Tokn Music Logo"
-        />
-      </div>
+          alt="Tokn Music Logo" 
+        /></a>
+      </div> 
 </div>
   </li>
 
@@ -63,23 +61,24 @@ const Navbar4 = () => {
           Part-time with Full-time offer (Hybrid)
         </div>
         <div className="text-gray-600 dark:text-gray-400 text-sm">
-          Jan 2022 - June 2022
+          Jan 2021 - August 2021
         </div>
         <div className="text-gray-600 dark:text-gray-400 text-sm mb-2">
         Online Cab Aggregator Service, Bangalore, India
         </div><br></br>
         <ul className="list-disc pl-6 mb-2">
-          <li>Developed and maintained web applications using React.js</li>
-          <li>Collaborated with team members to solve complex problems</li>
-          <li>Implemented automated testing using Jest and Enzyme</li>
+        <li>Worked on the UI of a mobile app built in React Native and Tailwind CSS.</li>
+        <li> Developed responsive UI components that adapt to different screen sizes.</li>
+        <li> Collaborated with UX designers and developers to implement new features and design changes.</li>
+        <li>Conducted code reviews and provided feedback to ensure high-quality code and adherence to best practices.</li>
         </ul>
       </div>
       <div className="flex items-center flex-shrink-0">
-        <img
+      <a href ="https://www.linkedin.com/company/suggaa/"> <img
           className="rounded-full ml-4 md:ml-0"
           src="https://media.licdn.com/dms/image/C4D0BAQH46GNVGBpW1g/company-logo_200_200/0/1624538825812?e=1687996800&v=beta&t=sMcvwmFkhbYk7yxfroOgusIqTaVDXJUTVjcC7PFFbpQ"
           alt="Tokn Music Logo"
-        />
+        /></a>
       </div>
 </div>
   </li>
@@ -97,26 +96,35 @@ const Navbar4 = () => {
           Internship (On-site)
         </div>
         <div className="text-gray-600 dark:text-gray-400 text-sm">
-          April 2019 - Dec 2019
+          April 2019 - Octuber 2019
         </div>
         <div className="text-gray-600 dark:text-gray-400 text-sm mb-2">
         Institution and Cultural Centre, Shillong, India
         </div><br></br>
         <ul className="list-disc pl-6 mb-2">
-          <li>Developed and maintained web applications using React.js</li>
-          <li>Collaborated with team members to solve complex problems</li>
-          <li>Built the "Tokn Music" Minimum Viable Product (MVP).</li>
-          <li>Developed Beta-versions of the Frontend and the web application built in React.js.</li>
-<li>Serviced the integration between the Backend and Frontend of the web application.</li>
-        <li>Documented UI components and design patterns for future use</li>
+        <li> Developed an online examination system using PHP and MySQL for the Institution of Ramakrishna Mission Vivekananda
+Cultural Centre-Shillong, Meghalaya, India</li>
+<li>Designed the user interface for the system using front-end technologies such as HTML, CSS, Bootstrap, and JavaScript</li>
+<li>Created a secured login system for students to register and access the examination server</li>
+<li>Implemented features such as the ability to save and check answers, correction of answers during the examination, and
+automatic logout after the examination</li>
+<li>Built an admin panel for adding, deleting, and updating user profiles, along with all necessary admin rights to run the
+system efficiently</li>
+<li>Developed a teacher panel for adding, deleting, and updating questions, as well as setting up different sets of question
+papers</li>
+<li>Enabled immediate display of marks after students submitted their papers</li>
+<li> Reduced the required labor force and produced more accurate results through this online examination system</li>
+<li> Utilized software requirements such as WAMP, XAMPP, MAMP, or LAMP server</li>
+<li>Handled the self-development of the system and handed it over to the organization.</li>
+
         </ul>
       </div>
-      <div className="flex items-center flex-shrink-0">
-        <img
-          className="rounded-full ml-4 md:ml-0"
+      <div className="flex items-center bg-white flex-shrink-0">
+      <a href ="https://rkmvcc.rkmshillong.org/">  <img
+          className="rounded ml-4 md:ml-0"
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Emblem-Ramakrishna-Mission-Transparent.png/200px-Emblem-Ramakrishna-Mission-Transparent.png"
           alt="Tokn Music Logo"
-        />
+        /></a>
       </div>
 </div>
   </li>
