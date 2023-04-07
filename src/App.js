@@ -7,6 +7,7 @@ import Navbar4 from "./Navbar4";
 import ContactUs from "./ContactUs";
 import Comingsoon from "./Comingsoon"
 // import "./Navbar.css"
+import TravelPage from "./TravelPage";
 
 
 function App() {
@@ -17,8 +18,9 @@ function App() {
 <Navbar />
 <Navbar3/>
     <Navbar4/>
-{/* <ContactUs/>
-<AboutMe/> */}
+ {/* <ContactUs/>
+<AboutMe/> 
+<TravelPage/> */}
     </div>
     
   );
