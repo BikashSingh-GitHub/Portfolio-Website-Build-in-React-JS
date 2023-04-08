@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/css/main.7ebbcbc4.css",
+    "main.js": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/js/main.57c15499.js",
+    "index.html": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/index.html",
+    "main.7ebbcbc4.css.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/css/main.7ebbcbc4.css.map",
+    "main.57c15499.js.map": "/BikashSingh-GitHub/Portfolio-Website-Build-in-React-JS.git/static/js/main.57c15499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebbcbc4.css",
+    "static/js/main.57c15499.js"
+  ]
+}
