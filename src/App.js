@@ -5,10 +5,10 @@ import AboutMe from "./AboutMe"
 import Navbar3 from "./Navbar3";
 import Navbar4 from "./Navbar4";
 import ContactUs from "./ContactUs";
-import Comingsoon from "./Comingsoon";
+import Comingsoon from "./Comingsoon"
 // import "./Navbar.css"
-import CertificationShowcase from "./CertificationShowcase";
-import CertificateCard from "./CertificateCard";
+import CertificationShowcase from "./CertificationShowcase"
+import CertificateCard from "./CertificateCard"
 
 function App() {
   return (
@@ -23,7 +23,6 @@ function App() {
     <CertificationShowcase/>
 
 <AboutMe/>
-{/* <Coomingsoon/> */}
 <ContactUs/>
     </div>
     

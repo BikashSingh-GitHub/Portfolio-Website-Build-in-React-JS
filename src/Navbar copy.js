@@ -19,10 +19,10 @@ function HomePage() {
       <a className="text-gray-1000 text-4xl font-bold hover:text-orange-500 mr-4" href="#">Portfolio</a>
     </div>
     <div className="flex mt-2 md:mt-0">
-      <a className="py-4 px-2 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">Home</a>
-      <a className="py-4 px-2 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">Projects</a>
-      <a className="py-4 px-2 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">About</a>
-      <Link to ="/ContactUs" className="py-4 px-2 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</Link>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">Home</a>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">Projects</a>
+      <a className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg mr-1" href="#">About</a>
+      <Link to ="/ContactUs" className="py-2 px-4 text-gray-800 font-bold hover:text-blue-100 text-lg  mr-4" href="#">Contact</Link>
      
     </div>
 
@@ -86,7 +86,7 @@ function HomePage() {
       >
         <motion.a
           whileHover={{ scale: 1.05 }}
-          className="bg-green-500 hover:bg-blue-600 text-white py-2 px-4 rounded-md md:mr-4 mb-4 md:mb-0"
+          className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-md md:mr-4 mb-4 md:mb-0"
           href="https://github.com/BikashSingh-GitHub?tab=repositories"
         >
           View My Work

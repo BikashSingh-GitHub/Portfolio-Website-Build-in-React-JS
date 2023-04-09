@@ -18,7 +18,7 @@ const Navber3 = () => {
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
           <b>ITM University, Gwalior</b>, Madhya Pradhesh, India. Pin code :- 474001<br />
-         <b> (2017-2020)</b> - Full-time on Campus
+         <b> (2017-2020)</b>
         </div>
       </div>
       <div className="flex-shrink-0 ">
@@ -32,7 +32,7 @@ const Navber3 = () => {
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
           <b>ITM University, Gwalior</b>, Madhya Pradhesh, India. Pin code :- 474001<br />
-         <b> (2014-2017)</b> - Full-time on Campus
+         <b> (2014-2017)</b>
         </div>
       </div>
       <div className="flex-shrink-0">
@@ -47,9 +47,9 @@ const Navber3 = () => {
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
           School:- St. Peters Higher Secondary School - Shillong, Meghalaya, India. Pin code :- 793003
         </div>
-        <div className="text-gray-700 dark:text-gray-400 text-1xl">
-          <b>Meghalaya Board of School Education<br />
-          (2012-2014)</b> - Full-time on Campus
+        <div className="text-gray-700 font-bold dark:text-gray-400 text-1xl">
+          Meghalaya Board of School Education<br />
+          (2012-2014)
         </div> 
       </div>
       <div className="flex-shrink-0">
@@ -59,7 +59,7 @@ const Navber3 = () => {
     <li className="bg-green-200 rounded-lg p-4 hover:bg-green-300 transition duration-300 flex">
       <div className="flex-grow">
         <h3 className="text-xl font-bold text-gray-900 dark:text-white">
-          Secondary-School Education - SSLC (Class-10th) - Full-time on Campus
+          Secondary-School Education - SSLC (Class-10th)
         </h3>
         <div className="text-gray-700 dark:text-gray-400 text-1xl">
         
