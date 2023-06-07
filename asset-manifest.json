@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website-Build-in-React-JS/static/css/main.3aed5d4d.css",
-    "main.js": "/Portfolio-Website-Build-in-React-JS/static/js/main.1e6740c0.js",
+    "main.css": "/Portfolio-Website-Build-in-React-JS/static/css/main.dbaa9665.css",
+    "main.js": "/Portfolio-Website-Build-in-React-JS/static/js/main.f312d39d.js",
     "static/media/BikashSingh.jpg": "/Portfolio-Website-Build-in-React-JS/static/media/BikashSingh.03b60a27459cfe21d29c.jpg",
     "index.html": "/Portfolio-Website-Build-in-React-JS/index.html",
-    "main.3aed5d4d.css.map": "/Portfolio-Website-Build-in-React-JS/static/css/main.3aed5d4d.css.map",
-    "main.1e6740c0.js.map": "/Portfolio-Website-Build-in-React-JS/static/js/main.1e6740c0.js.map"
+    "main.dbaa9665.css.map": "/Portfolio-Website-Build-in-React-JS/static/css/main.dbaa9665.css.map",
+    "main.f312d39d.js.map": "/Portfolio-Website-Build-in-React-JS/static/js/main.f312d39d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aed5d4d.css",
-    "static/js/main.1e6740c0.js"
+    "static/css/main.dbaa9665.css",
+    "static/js/main.f312d39d.js"
   ]
 }
