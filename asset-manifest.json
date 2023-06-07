@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-Website-Build-in-React-JS/static/css/main.3265e662.css",
-    "main.js": "/Portfolio-Website-Build-in-React-JS/static/js/main.dbe38785.js",
+    "main.js": "/Portfolio-Website-Build-in-React-JS/static/js/main.21468b44.js",
+    "static/media/BikashSingh.jpg": "/Portfolio-Website-Build-in-React-JS/static/media/BikashSingh.03b60a27459cfe21d29c.jpg",
     "index.html": "/Portfolio-Website-Build-in-React-JS/index.html",
     "main.3265e662.css.map": "/Portfolio-Website-Build-in-React-JS/static/css/main.3265e662.css.map",
-    "main.dbe38785.js.map": "/Portfolio-Website-Build-in-React-JS/static/js/main.dbe38785.js.map"
+    "main.21468b44.js.map": "/Portfolio-Website-Build-in-React-JS/static/js/main.21468b44.js.map"
   },
   "entrypoints": [
     "static/css/main.3265e662.css",
-    "static/js/main.dbe38785.js"
+    "static/js/main.21468b44.js"
   ]
 }
